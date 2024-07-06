@@ -1,0 +1,72 @@
+body{
+    background-image: url('./assets/wallpaperflare.com_wallpaper (1).jpg');
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #000000;
+    
+    
+}
+.firstdiv{
+    
+    align-items: center;
+    text-align: center;
+   min-height: 50vh;
+   min-width: 50vh;
+    justify-content: center;
+    margin-top: 100px;
+    border: 5px solid #656eeb;
+    border-radius: 10px;
+    background-color: aqua;
+    font-weight: bolder;
+    color: #4e59f1;
+    background-image: url('./assets/wallpaperflare.com_wallpaper (1).jpg');
+   
+    
+   
+    color: #000000;
+
+
+
+}
+h1{
+    font-weight: bolder;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 15px;
+    background-color: #656eeb;
+    color: black;
+}
+input[type="text"]{
+    margin-top: 10px;
+    font-size: 1rem;
+    padding: 10px;
+    border : 2px solid #656eeb;
+    border-radius: 50px;
+    color: #000000;
+}
+.btn-1{
+    font-size: 1rem;
+    padding: 10px;
+    border : 2px solid #656eeb;
+    border-radius: 50px;
+    color: #000000;
+}
+.info{
+    font-size: 2rem;
+    
+}
+.info1{
+    border: 7px solid #656eeb;
+    border-radius: 10px;
+    margin: 20px;
+}
+.box{
+   
+   align-items: center;
+   display: flex;
+   width: 500px;
+   margin: auto;
+  
+
+}
